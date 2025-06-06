@@ -4,6 +4,7 @@ Repositório criado para a disciplina de Programação de Computadore, do curso 
 🕹️ Jogo da Velha em Python
 
 Este é um projeto simples de Jogo da Velha (Tic Tac Toe) desenvolvido em Python como atividade da disciplina de Programação de Computadores, no primeiro período do curso de Análise e Desenvolvimento de Sistemas.
+
 📌 Objetivo
 
 O objetivo do projeto é praticar os conceitos básicos da linguagem Python, como:
