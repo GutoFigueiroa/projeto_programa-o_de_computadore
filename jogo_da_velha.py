@@ -93,5 +93,5 @@ def jogar_velha():
         print('Obrigado por jogar!')
 
 # Iniciar o jogo
-if _name_ == "_main_":
+if __name__ == "__main__":
     jogar_velha()
